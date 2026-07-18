@@ -85,13 +85,13 @@ ArrhythmiaGuard/
 
 ## Hardware
 
-| Component | Model | GPIO |
-|-----------|-------|------|
-| Microcontroller | ESP32-S3 N16R8 (240 MHz, 8 MB PSRAM) | — |
-| ECG Sensor | AD8232 | 4 / 5 / 6 |
-| PPG Sensor | MAX30102 | 8 / 9 (I2C) |
-| Vibration Motor | Moussasoft 3-pin module | 7 |
-| Power Module | HW-131 (3.3V stabilized rail) | — |
+| Component | Model |
+|-----------|-------|
+| Microcontroller | ESP32-S3 N16R8 (240 MHz, 8 MB PSRAM) |
+| ECG Sensor | AD8232 |
+| PPG Sensor | MAX30102 |
+| Vibration Motor | Moussasoft 3-pin module |
+| Power Module | HW-131 (3.3V stabilized rail) |
 
 Total hardware cost: approximately 482 MAD (~44 EUR)
 
