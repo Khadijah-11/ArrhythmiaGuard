@@ -1,0 +1,10 @@
+﻿pfe_env/
+data/
+models/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.tflite
+*.h
+.vscode/
+Thumbs.db
